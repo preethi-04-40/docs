@@ -52,6 +52,7 @@
     {
       "group": "Get Started",
       "pages": [
+        "Welcome to Zuper",
         "introduction",
         "quickstart",
         "development",

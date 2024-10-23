@@ -52,7 +52,7 @@
     {
       "group": "Get Started",
       "pages": [
-        "Welcome-to-Zuper",
+        "Welcome",
         "introduction",
         "quickstart",
         "development",

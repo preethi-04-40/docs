@@ -52,15 +52,14 @@
     {
       "group": "Get Started",
       "pages": [
-        "Welcome to Zuper"
-        "Users settings"
+        "Welcome to Zuper",
+        "Users settings",
         "Welcome",
         "introduction",
         "quickstart",
         "development",
         "customer",
-        "zuper"
-      ]
+        ]
     },
     {
       "group": "Essentials",

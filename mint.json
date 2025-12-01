@@ -87,6 +87,17 @@
       ]
     }
   ],
+
+
+  "config": {
+    "scripts": {
+      "home.js": {
+        "location": "body",
+        "defer": true
+      }
+    }
+  },
+
   "footerSocials": {
     "x": "https://x.com/mintlify",
     "github": "https://github.com/mintlify",
